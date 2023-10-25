@@ -1,0 +1,6 @@
+==8118== Memcheck, a memory error detector
+==8118== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==8118== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==8118== Command: ./mk
+==8118== Parent PID: 8083
+==8118== 
