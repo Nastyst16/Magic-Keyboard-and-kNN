@@ -1,6 +1,6 @@
 #### Copyright 2023 Nastase Cristian-Gabriel 315CA
 #
-# Tema 3
+# Project
 
 ## Task 1 - Magic Keyboard
 
